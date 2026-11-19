@@ -6,8 +6,9 @@
 
 ### 👋 About me
 
+- 🏢 Building with my org [**ZeroDayDuo**](https://github.com/ZeroDayDuo)
 - 🛡️ I build **security & detection tooling**: XDR/SIEM pipelines, anomaly detection, mail-server hardening
-- 🐧 I run **Linux infrastructure** day to day: RHEL / Rocky / Alma / Ubuntu / Debian
+- 🐧 I run **Linux infrastructure** day to day: RHEL / Rocky / Alma / Ubuntu / Debian / Arch / Gentoo
 - 🤖 I wire **AI agents into real ops work**: bug-hunting labs, agent orchestration, automation
 - 🐍 Most of my code is **Python**, with TypeScript/JavaScript for web consoles
 
@@ -19,6 +20,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gentoo-54487A?style=flat-square&logo=gentoo&logoColor=white" />
   <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white" />
   <img src="https://img.shields.io/badge/HAProxy-106DA9?style=flat-square&logo=haproxy&logoColor=white" />
